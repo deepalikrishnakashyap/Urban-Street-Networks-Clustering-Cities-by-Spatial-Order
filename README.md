@@ -19,10 +19,13 @@ Proportions of intersections vs. dead-ends
 Orientation-order (a measure of grid-like structure)
 
 By leveraging these metrics, the study identifies regional clustering patterns, particularly differences between U.S./Canadian cities and those in other parts of the world. This project will reproduce and extend aspects of this analysis using clustering techniques to categorize cities based on their street network characteristics.
-Dataset
+
+# Dataset
 
 We will utilize Table 1 from the research paper, which contains street network measurements for 100 cities. The dataset is available at:
 🔗 Urban Spatial Order: Street Network Orientation, Configuration, and Entropy
+
+https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0189-1 
 
 # Tasks
 1. Understanding the Methodology
